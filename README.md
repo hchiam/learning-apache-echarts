@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
+Can be rendered in canvas or in SVG, and decal pattern option takes care of bar graph accessibility.
+
 https://echarts.apache.org/en/index.html
 
 https://echarts.apache.org/examples/en/editor.html?c=candlestick-simple
