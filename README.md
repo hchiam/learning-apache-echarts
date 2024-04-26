@@ -28,4 +28,4 @@ option = {
 };
 ```
 
-![demo-screenshot](https://github.com/hchiam/learning/blob/main/example-demo-screenshot.png)
+![demo-screenshot](https://github.com/hchiam/learning-apache-echarts/blob/main/example-demo-screenshot.png)
