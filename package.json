@@ -1,5 +1,10 @@
 {
   "name": "learning-apache-echarts",
   "license": "MIT",
-  "scripts": {}
+  "scripts": {
+    "dev": "yarn start",
+    "start": "open to-deploy/index.html",
+    "deploy": "yarn surge",
+    "surge": "surge to-deploy https://apache-echarts-example.surge.sh"
+  }
 }
